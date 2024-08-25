@@ -1,6 +1,6 @@
 # TailorTalk 🤖💬
 
-![TailorTalk Interface](Screenshot 2024-08-25 185327.png)
+![TailorTalk Interface]("C:/Users/sohel/OneDrive/Pictures/Screenshots/Screenshot 2024-08-25 185327.png")
 
 ## Overview 🌟
 
