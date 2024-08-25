@@ -1,6 +1,6 @@
 # TailorTalk 🤖💬
 
-![TailorTalk Interface](path_to_your_image.png)
+![TailorTalk Interface](Screenshot 2024-08-25 185327.png)
 
 ## Overview 🌟
 
